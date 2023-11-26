@@ -1,4 +1,4 @@
-# Maze Game
+# Tag Game
 
 ## Description
 
