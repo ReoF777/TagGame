@@ -11,7 +11,7 @@ This is a simple tag game implemented in Python using the Tkinter library. The p
 - **Moving Apple:** The apple moves randomly within the maze.
 
 <p align="center">
-  <img src="images/tag.png" alt="Tag Game" width="300" height="200">
+  <img src="images/tag.png" alt="Tag Game" width="300" height="300">
 </p>
 
 ## Instructions
