@@ -10,6 +10,10 @@ This is a simple tag game implemented in Python using the Tkinter library. The p
 - **Collect Apples:** The player can collect apples to earn points.
 - **Moving Apple:** The apple moves randomly within the maze.
 
+<p align="center">
+  <img src="images/tag.png" alt="Tag Game" width="300" height="200">
+</p>
+
 ## Instructions
 
 1. Run the script in a Python environment.
